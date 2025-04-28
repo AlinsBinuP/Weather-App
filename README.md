@@ -1,20 +1,49 @@
-<<<<<<< HEAD
-# Weather-App
-=======
-# weather_app
+Weather App
+A simple, yet powerful Weather App built with Flutter to provide real-time weather updates. It features an intuitive user interface that allows users to search for weather data by city, view a 3-day weather forecast, and easily toggle between light and dark modes.
 
-A new Flutter project.
+Features:
+Real-time weather updates with current temperature, humidity, wind speed, and weather conditions.
 
-## Getting Started
+Search functionality to look up weather by city name.
 
-This project is a starting point for a Flutter application.
+3-day forecast showing weather predictions.
 
-A few resources to get you started if this is your first Flutter project:
+Day/Night theming to adapt the app's appearance based on system settings or user preferences.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Responsive and lightweight for quick access and seamless user experience.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
->>>>>>> 5cf07c9 (Initial commit - Weather App)
+Tech Stack:
+Flutter for cross-platform development.
+
+OpenWeatherMap API (or any weather API you are using) to fetch weather data.
+
+Dart for app logic and UI building.
+
+Installation:
+Clone the repository:
+
+bash
+Copy
+Edit
+git clone https://github.com/AlinsBinuP/weather-app.git
+Navigate to the project directory:
+
+bash
+Copy
+Edit
+cd weather-app
+Install dependencies:
+
+bash
+Copy
+Edit
+flutter pub get
+Run the app:
+
+bash
+Copy
+Edit
+flutter run
+Contributing:
+Feel free to contribute by creating issues, submitting pull requests, or suggesting new features. All contributions are welcome!
+
