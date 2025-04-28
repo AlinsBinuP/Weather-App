@@ -52,4 +52,6 @@ We welcome contributions! Feel free to:
 ➡️ Create pull requests for improvements or fixes.
 
 🖼️ Screenshots:
+
+
 ![Weather App Screenshot](Screenshot_2025-04-28-18-09-53-83_c3995fee05de960e26ec26b8103e34a5.jpg)
