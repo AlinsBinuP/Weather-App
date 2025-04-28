@@ -27,3 +27,32 @@ A sleek and powerful **Weather App** built with **Flutter**, designed to provide
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/AlinsBinuP/weather-app.git
+
+   2. **Navigate to the project directory**:
+   ```bash
+   cd weather-app
+   ```
+
+3. **Install dependencies**:
+   ```bash
+   flutter pub get
+   ```
+
+4. **Run the app**:
+   ```bash
+   flutter run
+   ```
+
+---
+
+### 🤝 **Contributing:**
+
+We welcome contributions! Feel free to:
+- 📝 **Submit issues** to report bugs or suggest features.
+- ➡️ **Create pull requests** for improvements or fixes.
+
+---
+
+### 🖼️ **Screenshots:**
+
+![Weather App Screenshot](Screenshot_2025-04-28-18-09-53-83_c3995fee05de960e26ec26b8103e34a5.jpg)
